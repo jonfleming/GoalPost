@@ -1,0 +1,19 @@
+{
+  "name": "goalpost",
+  "version": "0.2.5",
+  "description": "GoalPost Alexa Skill for wunderlist",
+  "engines": {
+    "node": "6.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonfleming/GoalPost.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "cookie-parser": "1.4.3",
+    "express": "4.14.0",
+    "multer": "1.2.1"
+  }
+}

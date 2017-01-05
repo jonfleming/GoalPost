@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "GoalPost Alexa Skill for Wunderlist",
+  "repository": "git://github.com/jonfleming/GoalPost.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "alexa", "wunderlist"],
+  "image": "heroku/nodejs"
+}
